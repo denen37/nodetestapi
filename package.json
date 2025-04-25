@@ -4,8 +4,8 @@
   "description": "For testing purposes",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app",
-    "dev": "node app"
+    "start": "node app.js",
+    "dev": "nodemon app"
   },
   "author": "Awar Abraham",
   "license": "ISC",
