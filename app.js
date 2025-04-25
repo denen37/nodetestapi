@@ -7,7 +7,7 @@ const env = process.env;
 
 
 app.get('/', (req, res) => {
-    res.send('Welcome, Your app is working!')
+    res.send('Welcome, Your app is working on azure cloud platform!!!')
 })
 
 console.log('PORT:', env.PORT)
